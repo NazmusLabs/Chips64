@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Chips64 Remastered
+### The Chip's Challenge Restoration Project
 
 You can use the [editor on GitHub](https://github.com/NazmusLabs/Chips64/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
